@@ -4,18 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "browser-sync start -sf"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Darsha1509/HW-it-academy.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Darsha1509/HW-it-academy/issues"
-  },
-  "homepage": "https://github.com/Darsha1509/HW-it-academy#readme",
   "devDependencies": {
     "browser-sync": "^2.24.7"
   }
